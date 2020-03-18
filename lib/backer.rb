@@ -9,4 +9,5 @@ class Backer
   
   def back_project(Project)
     back_project << Project
+  end
 end
